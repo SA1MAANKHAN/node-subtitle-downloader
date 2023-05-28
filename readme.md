@@ -3,7 +3,7 @@
 ### **Before using, make sure**
 - You have `node 16 or greater` installed.
 - You have `opensubtitles` API_KEY
-    - register at [OPEN API](https://www.opensubtitles.com/) to get the API KEY
+    - register at [OPEN API](https://www.opensubtitles.com/en/users/sign_in) to get the API KEY
 
 ### **How to use**
 
